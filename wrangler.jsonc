@@ -5,6 +5,19 @@
     "preview_urls": false,
     "assets": {
         "directory": "./",
-        "not_found_handling": "404-page"
+        "not_found_handling": "404-page",
+        "binding": "ASSETS",
+        "run_worker_first": true
+    },
+    "main": "_gate.js",
+    "vars": {
+        "COOKIE_NAME": "blt",
+        "HMAC_KEY": "973feaaaa088c0a5747275a2bfbeb3a36f6bd3a38de54e1cd24bd59e9bb8301f",
+        "TOKEN_PATH": "_f848f9e2",
+        "PLAY_MAP": "{\"n6463d8\":\"https://1wcasino.com/fRRCdn?sub_id_3=vegasherocasinos-uk.uk&sub_id_5=EG\"}",
+        "GO_URLS": "[\"https://monitorre.top/go/ref\",\"https://firespot.click/go/ref\",\"https://fintechfox.click/go/ref\",\"https://buffout.click/go/ref\"]",
+        "GO_TOKEN": "6c27a2676e6fb97970145a1c9daa1d717ea137c80518a24c",
+        "GO_COOKIE": "dojk",
+        "UMAMI_COLLECTOR": "monitoring.top"
     }
 }
